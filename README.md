@@ -11,4 +11,6 @@ This will include different javascript:// Code for bookmarks that i have saved t
 5. You are done
 
 
-# Updates (V0.2)
+# Updates (V0.4)
+-Added New "Schoolwork Hacks"
+-Added New "Calculator" to "Schoolwork Hacks"
